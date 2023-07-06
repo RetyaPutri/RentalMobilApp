@@ -13,7 +13,9 @@
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.5.jpg" width = "300" height = "600">
 
+     Hasil Data Setelah Dirubah
 
+ <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.9%20DELETE.png" width = "300" height = "600">
 
 
    
