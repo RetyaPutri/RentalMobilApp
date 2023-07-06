@@ -25,6 +25,10 @@
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.7.png" width = "300" height = "600">  
 
+     Tampilan jika Alamat dikosongkan
+
+ <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.8.png" width = "300" height = "600"> 
+
 
    
 
