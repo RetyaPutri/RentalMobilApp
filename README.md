@@ -1,6 +1,6 @@
 # RentalMobilApp
- Tugas Room Database Part1
+ Tugas Room Database Part2
 
-di halaman ini menampilkan tidak ada tempat untuk rental mobil
+1. tambahkan data yang diperlukan
 
- <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/not%20found.png" width = "300" height = "600">
+ <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.2.jpg" width = "300" height = "600">
