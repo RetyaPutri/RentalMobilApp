@@ -5,7 +5,7 @@
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.3.jpg" width = "300" height = "600">
 
-   Hasil Data yang Ditambahkan
+     Hasil Data yang Ditambahkan
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.9%20DELETE.png" width = "300" height = "600">
 
