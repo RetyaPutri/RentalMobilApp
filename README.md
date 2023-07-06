@@ -5,7 +5,7 @@
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.3.jpg" width = "300" height = "600">
 
-     Hasil Data yang ditambahkan
+     Hasil data yang ditambahkan
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/NEW%201.png" width = "300" height = "600">
 
@@ -13,7 +13,7 @@
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.5.jpg" width = "300" height = "600">
 
-     Hasil Data setelah Dirubah
+     Hasil data setelah dirubah
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.9%20DELETE.png" width = "300" height = "600">
 
@@ -21,7 +21,7 @@
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/NEW%202.png" width = "300" height = "600">
 
-     Tampilan 
+     Data yang dihapus tidak muncul diriwayat
 
  <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.6.jpg" width = "300" height = "600">  
 
