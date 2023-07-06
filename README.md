@@ -7,7 +7,7 @@
 
      Hasil Data yang ditambahkan
 
- <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/NOO%202.png" width = "300" height = "600">
+ <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/NEW%201.png" width = "300" height = "600">
 
  2. Merubah Data Alamat dan Nama Rental
 
