@@ -11,7 +11,7 @@
 
  2. Merubah Data Alamat dan Nama Rental
 
-     <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.5.jpg" width = "300" height = "600">
+ <img src = "https://github.com/RetyaPutri/RentalMobilApp/blob/main/1.5.jpg" width = "300" height = "600">
 
 
 
